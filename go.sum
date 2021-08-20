@@ -1,0 +1,4 @@
+github.com/habit4/context v0.0.4 h1:HlcwAIcLWycj2Wmu/GTuS/Ph81oqfa63TGlkRzHIXIY=
+github.com/habit4/context v0.0.4/go.mod h1:RuCeZj8pi0OzlPCCAfc9IurggRDn1PBjEc+WTBZXZ/g=
+github.com/habit4/errors v0.0.2 h1:fQb0XBtRGY/KJ74+vCmtCEv13UrTbg24RsGLpk8Cnys=
+github.com/habit4/errors v0.0.2/go.mod h1:VTKSMnjxs9TDJBuPbTZ/g3htlv74JIaLRTAh5/cHnsA=
